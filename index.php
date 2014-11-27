@@ -3,6 +3,6 @@
 		<title>Test WEB</title>
 	</head>
 	<body>
-		<h1>It's just a text<h1>
+		<h1>It's a screen<h1>
 	<body>
 </html>
